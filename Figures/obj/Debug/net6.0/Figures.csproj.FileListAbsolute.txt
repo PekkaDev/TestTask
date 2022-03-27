@@ -1,0 +1,12 @@
+d:\dotnet\Geometry\Figures\obj\Debug\net6.0\Figures.csproj.AssemblyReference.cache
+d:\dotnet\Geometry\Figures\obj\Debug\net6.0\Figures.GeneratedMSBuildEditorConfig.editorconfig
+d:\dotnet\Geometry\Figures\obj\Debug\net6.0\Figures.AssemblyInfoInputs.cache
+d:\dotnet\Geometry\Figures\obj\Debug\net6.0\Figures.AssemblyInfo.cs
+d:\dotnet\Geometry\Figures\obj\Debug\net6.0\Figures.csproj.CoreCompileInputs.cache
+d:\dotnet\Geometry\Figures\obj\Debug\net6.0\Figures.dll
+d:\dotnet\Geometry\Figures\obj\Debug\net6.0\Figures.pdb
+d:\dotnet\Geometry\Figures\bin\Debug\net6.0\Figures.deps.json
+d:\dotnet\Geometry\Figures\bin\Debug\net6.0\Figures.dll
+d:\dotnet\Geometry\Figures\obj\Debug\net6.0\refint\Figures.dll
+D:\dotnet\Geometry\Figures\bin\Debug\net6.0\Figures.pdb
+D:\dotnet\Geometry\Figures\obj\Debug\net6.0\ref\Figures.dll
